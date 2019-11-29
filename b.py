@@ -7,7 +7,7 @@ except ValueError as e:
     print(e)
 try:
     x = 10
-    y = "bharat"
+    y = 'bharat'
     z = x + y
     print(z)
 except TypeError as e:
